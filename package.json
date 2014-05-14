@@ -1,5 +1,7 @@
 {
+	"name": "bin-helpers",
 	"dependencies": {
-		"mucbuc-jsthree": "*"
+		"mucbuc-jsthree": "*",
+		"gulp": "*"
 	}
 }

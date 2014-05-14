@@ -10,4 +10,5 @@ function generateProject( emitter )
 	var p = new base.Processor( config.generate , emitter );
 	console.log( 'generate project' );
 	emitter.emit( 'execute' );
+
 }
